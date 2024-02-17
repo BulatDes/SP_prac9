@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\st310-03\Desktop\Ltcgbtr\Системное программирование\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(25,23): warning C4311: приведение типов: усечение указателя из "LPVOID" в "int"
+C:\Users\st310-03\Desktop\Ltcgbtr\Системное программирование\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(25,23): warning C4302: приведение типов: усечение из "LPVOID" к "int"
+C:\Users\st310-03\Desktop\Ltcgbtr\Системное программирование\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(39,48): warning C4312: приведение типов: преобразование из "int" в "void *" большего размера
+C:\Users\st310-03\Desktop\Ltcgbtr\Системное программирование\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(40,48): warning C4312: приведение типов: преобразование из "int" в "void *" большего размера
+  ConsoleApplication1.vcxproj -> C:\Users\st310-03\Desktop\Ltcgbtr\Системное программирование\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
